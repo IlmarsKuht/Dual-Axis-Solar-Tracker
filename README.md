@@ -3,6 +3,8 @@
 ## Project Overview
 This Arduino Solar Tracker project is designed to automatically adjust the position of a solar panel (or any object requiring optimal sun exposure) to maximize its exposure to sunlight. Utilizing four Light Dependent Resistors (LDRs) and two servo motors, the system dynamically tracks the sun's position and aligns the panel for maximum efficiency.
 
+![circuit](./circuit.png)
+
 ## Components
 - Arduino Uno (or similar Arduino board)
 - 2 x Servo Motors
